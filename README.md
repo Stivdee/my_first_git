@@ -4,3 +4,5 @@ In this project I will create a rand message generator. It shall contain 3 diffe
 
 ##I will use##
 I will use JavaScript to completet this task.
+
+##I have added random words to the project##
