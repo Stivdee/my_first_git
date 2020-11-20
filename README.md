@@ -10,3 +10,5 @@ I have added random words to the arrays.
 I have created a function that will return a number.
 
 I have created a function that will create random sentences. It has a parameter. The parameter will decide how many sentences that will be created and returned.
+
+The sentences works good.
